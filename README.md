@@ -1,0 +1,3 @@
+- 👋 Hi, I’m kayftww, im 31 and i'm working as accountant.
+- 🌱 I’m currently learning lua and i'm a junior programmer in [ESP]Darkness Community.
+- 📫 You can contact me on discord Nach#0544
