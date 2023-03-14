@@ -1,3 +1,3 @@
 - 👋 Hi, I’m kayftww, im 31 and i'm working as accountant.
-- 🌱 I’m still learning lua and a junior programmer.
+- 🌱 I’m a junnior lua based programmer. Still learning.
 - 📫 You can contact me on discord Nach#0544
